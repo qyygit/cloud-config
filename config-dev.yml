@@ -1,6 +1,6 @@
  payment:
   type: com.alibaba.druid.pool.DruidDataSource111     1
   driver-class-name: org.gjt.mm.mysql.Driver        
-  url: http://cloud-payment-service
+  url: http://cloud-payment-service6666
   username: root
   password: root
